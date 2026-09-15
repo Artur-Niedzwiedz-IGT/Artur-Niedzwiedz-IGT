@@ -1,4 +1,4 @@
-# Hi, I'm Artur Niedźwiedź 👋
+# Artur Niedźwiedź
 
 <p align="left">
   <a href="https://github.com/Artur-Niedzwiedz-IGT">
